@@ -1,2 +1,2 @@
 # My First AlX Github project
-###### This is a mandatory project from ALX. 
+###### I hav edited thsi file according to Task 4 collaboration: be up to date
